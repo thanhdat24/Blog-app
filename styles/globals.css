@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-size: var(--fontSize);
+  background-color: var(--backgroundColor);
+  color: var(--textColor);
+}
